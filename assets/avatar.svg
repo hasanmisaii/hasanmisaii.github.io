@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Hasan Misaii portfolio avatar placeholder</title>
+  <desc id="desc">Abstract academic portfolio avatar placeholder.</desc>
+  <defs>
+    <linearGradient id="g" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f2fe"/>
+      <stop offset="100%" stop-color="#9d4edd"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="16" stdDeviation="16" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+  <rect width="512" height="512" rx="256" fill="#151e33"/>
+  <circle cx="256" cy="256" r="218" fill="url(#g)" opacity="0.18"/>
+  <circle cx="256" cy="198" r="86" fill="url(#g)" filter="url(#shadow)"/>
+  <path d="M112 420c22-91 83-140 144-140s122 49 144 140" fill="url(#g)" filter="url(#shadow)"/>
+  <path d="M139 112h62v22h-38v44h35v22h-35v63h-24V112zm118 0h32l74 151h-27l-17-36h-93l-17 36h-26l74-151zm16 29-37 66h74l-37-66z" fill="#e2e8f0" opacity="0.9"/>
+</svg>
