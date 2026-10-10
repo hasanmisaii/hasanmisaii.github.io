@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', () => {
           "year": "2026",
           "authors": "Misaii, H. [Hasan], Kesse-Guyot, E., & Mariotti, F.",
           "title": "Dynamic life expectancy modelling of shifting from animal-based to plant-based foods using individual-level dietary substitution",
-          "journal": "Nature Food",
+          "journal": "The American Journal of Clinical Nutrition",
           "status": "Submitted-April 2026",
           "url": "https://scholar.google.com/scholar?q=%22Dynamic%20life%20expectancy%20modelling%20of%20shifting%20from%20animal-based%20to%20plant-based%20foods%20using%20individual-level%20dietary%20substitution%22%20Misaii%2C%20H.%20%5BHasan%5D%2C%20Kesse-Guyot%2C%20E.%2C%20%26%20Mariotti%2C%20F."
       },
